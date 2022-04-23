@@ -1,0 +1,225 @@
+.bg-lightgreen{
+          
+          background-color: rgb(220, 252, 222) !important;
+}
+
+.padding-left-40{
+          padding-left: 40px;
+}
+
+.nav-a{
+          text-decoration: none;
+          color: rgb(61, 61, 61);
+          margin-right: 30px;
+}
+
+.nav-a:hover{
+          color: rgb(124, 124, 124);
+}
+
+.form{
+          width: 40%;
+          
+          margin: auto;
+          margin-top: 100px;
+}
+.main-board{
+          margin-top: 100px;
+}
+
+.pet-detail{
+          color: rgb(92, 92, 92);
+          font-size: smaller;
+}
+
+.card-subtitle{
+          color: rgb(102, 102, 102);
+}
+
+.petitem{
+          padding: 10px;
+          margin: 10px;
+          /* border: 1px solid rgb(146, 146, 146); */
+          box-shadow: 0px 0px 5px rgb(168, 168, 168);
+          cursor: pointer;
+}
+
+.search span{
+          cursor: pointer;
+}
+
+.search{
+          width: 60%;
+          margin: auto;
+}
+
+.search span:hover{
+          background-color: rgb(175, 175, 175);
+}
+
+.list-group-item:hover{
+          background-color: rgb(207, 207, 207);
+          cursor: pointer;
+}
+
+.form-pet{
+          width:60%;
+          margin: auto;
+}
+
+#search-btn{
+          height: 38px;
+          cursor: pointer;     
+}
+
+#search-btn span{
+          height: 38px;
+}
+
+
+#petlist{
+          width: 100%;
+}
+
+.pet-link{
+          display: inline-block;
+          text-decoration: none;
+          color: black;
+}
+
+.detail{
+          padding-left: 30px;
+}
+
+.detail-content{
+          width:80%;
+          margin:auto;
+          margin-top:70px;
+          margin-bottom:30px;
+}
+
+.comment-user{
+          text-align: right;
+          color: rgb(110, 188, 252);
+          cursor: pointer;
+}
+
+.comment-date{
+          font-size: smaller;
+          color: rgb(78, 78, 78);
+}
+
+.hidden{
+          display:none;
+}
+
+.delete-comment{
+          font-size: smaller;
+          color: rgb(78, 78, 78);
+          text-decoration: none;
+}
+
+.content{
+          font-family: "Times New Roman", Times, serif;
+          width: 50%;
+          margin: auto;
+          margin-top: 40px;
+}
+
+.forum-content{
+          width: 80%;
+          padding: 20px;
+          margin: auto;
+}
+
+.card{
+          cursor: pointer;
+          padding-left: 10px;
+}
+
+.card-portrait{
+          width: 60px;
+          height: 60px;
+          margin: auto;
+          margin-top: 15px;
+          border: 1px solid rgb(175, 175, 175);
+          border-radius: 1px;
+}
+
+.post-content{
+          width: 80%;
+          margin: auto;
+          margin-top: 30px;
+}
+
+.post-form{
+          width: 60%;
+          margin: auto;
+          margin-top: 40px;
+}
+
+.window{
+          width: 50%;
+          height: 600px;
+          margin: auto;
+          /* margin-top: 50px; */
+          border: 1px solid rgb(97, 97, 97);
+          border-radius: 2px;
+          /* overflow-y: scroll; */
+}
+
+.left-bar{
+          width: 20%;
+          height: 600px;
+          display: inline-block;
+          border-right: 1px solid rgb(97, 97, 97);
+          overflow-y: scroll;
+}
+
+.right{
+          width: 78%;
+          display: inline-block;
+          height: 600px;
+          vertical-align: top;
+}
+
+.record{
+          height: 400px;
+          width: 100%;
+          overflow-y: scroll;
+}
+
+/* .ck-content{
+          height: 100px;
+          overflow-y: scroll;
+} */
+
+.userList{
+          width: 100%;
+          height: 50px;
+          background-color: rgb(233, 233, 233);
+          border-radius: 3px;
+          cursor: pointer;
+          border-bottom: 1px solid rgb(104, 104, 104);
+}
+
+.userList:hover{
+          background-color: rgb(218, 217, 217);
+}
+
+.contact{
+          color: rgb(104, 104, 104);
+          font-size: smaller;
+}
+
+.address {
+    display: block;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+
+/* .user1text{
+          text-align: right;
+          width: 50%;
+} */
+
